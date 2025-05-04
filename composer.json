@@ -1,0 +1,18 @@
+{
+    "name": "netgeek-sys/number-guessing-game",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zakaria Mehamdia",
+            "email": "54771882+netgeek-sys@users.noreply.github.com"
+        }
+    ],
+    "require": {
+      "ext-readline": "*"
+    }
+}
